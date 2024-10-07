@@ -100,7 +100,7 @@ function generaPassword($lunghezzaPsw, $caratteri)
                 <input type="checkbox" name="simboli" value="simboli" /> Simboli
                 <br>
                 <button type="submit" class="btn btn-primary">Invia</button>
-                <button type="reset" class="btn btn-danger" onclick="svuotaContenuto()">Annulla</button>
+                <button type="reset" class="btn btn-danger">Annulla</button>
             </form>
         </div>
     </div>
